@@ -131,8 +131,13 @@ h1,h2,h3,p{margin-top:0}
 .outreach-copy strong{color:var(--ink)}
 .outreach-links{display:flex;gap:12px 23px;flex-wrap:wrap;margin-top:15px}
 .outreach-links a{font-size:13px;font-weight:650}
-.beyond-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px;padding-top:26px;border-top:1px solid var(--border)}
-.beyond-item h3{font:700 18px/1.35 var(--serif);margin:0 0 9px}
-.beyond-item p{font-size:13px;color:var(--ink-soft);line-height:1.8;margin:0}
+.academic-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px}
+.academic-item h3{font:700 18px/1.35 var(--serif);margin:0 0 9px}
+.academic-item p{font-size:13px;color:var(--ink-soft);line-height:1.8;margin:0}
 @media(max-width:860px){.outreach-feature{grid-template-columns:1fr;gap:22px}.outreach-photo{max-width:620px}}
-@media(max-width:760px){.beyond-grid{grid-template-columns:1fr;gap:21px}}
+@media(max-width:760px){.academic-grid{grid-template-columns:1fr;gap:21px}}
+
+/* Academic service cards and personal interests use the existing sage palette. */
+.outside-lab{border-top:1px solid var(--border);padding-top:25px;margin-top:6px;max-width:850px}
+.outside-lab h3{font:700 19px/1.35 var(--serif);margin:0 0 9px}
+.outside-lab p{font-size:14px;line-height:1.85;color:var(--ink-soft);margin:0}
