@@ -1,6 +1,9 @@
 # Francesco Giacomarra — Academic Website
 
-A static, English-language academic website ready for GitHub Pages. The main profile photo is the Grand Canyon portrait; the alternative formal portrait is also included.
+
+This is the repo for my personal github page!
+
+<!-- A static, English-language academic website ready for GitHub Pages. The main profile photo is the Grand Canyon portrait; the alternative formal portrait is also included.
 
 ## Deploy to GitHub Pages
 
@@ -42,4 +45,4 @@ This PDF is an unmodified copy of the supplied extended CV. It contains a person
 
 The website itself shows the public TU Wien work email rather than the phone number. The TU Wien, DBLP and ORCID links have been cross-checked; the AAMAS 2026 author list uses the full five-author version in the conference program and arXiv record (the CV gives a shortened four-author list).
 
-No website changes have been pushed automatically to GitHub. This is a standalone package for review before publishing.
+No website changes have been pushed automatically to GitHub. This is a standalone package for review before publishing. -->
